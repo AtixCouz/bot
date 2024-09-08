@@ -14,7 +14,7 @@
  */
 
 
-
+$str
 const { Client, GatewayIntentBits, ActivityType, TextChannel } = require('discord.js');
 require('dotenv').config();
 const express = require('express');
